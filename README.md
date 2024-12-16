@@ -1,4 +1,4 @@
-# ECE5275 Final Project: Look That Way! Game
+# ECE5275 Final Project: Look That Way!
 ## Nathan Rakhlin (npr29) and Nicholas Papapanou (ngp37)
 
 Copy the look_that_way_game folder into your /home/pi directory.
